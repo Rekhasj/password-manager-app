@@ -1,0 +1,127 @@
+.password-manager-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  height: 100%;
+  padding: 20px;
+}
+.card-container {
+  padding: 10px 20px;
+}
+.app-logo-image {
+  height: 50px;
+  width: 100px;
+}
+.add-password-container {
+  background-color: #5763a5;
+  border-radius: 5px;
+  display: flex;
+
+  justify-content: space-around;
+  align-items: center;
+}
+.password-item-container {
+  background-color: #5763a5;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.add-password-card {
+  height: 30%;
+  width: 30%;
+  background-color: #454f84;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px;
+}
+.password-image {
+  height: 500px;
+  width: 500px;
+}
+.add-password-heading {
+  color: #f8fafc;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+}
+.name {
+  color: #f8fafc;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.count {
+  color: #f8fafc;
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.separator {
+  color: #f8fafc;
+  width: 90%;
+}
+.password-count-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.checkbox {
+  color: #f8fafc;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.checkbox-card {
+  text-align: end;
+  padding-right: 10px;
+}
+.input-card {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding-right: 50px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.logo-image {
+  height: 20px;
+  width: 20px;
+}
+.input {
+  border: none;
+  padding-right: 5px;
+}
+.button-card {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.input-button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  font-size: 10px;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin-top: 10px;
+}
+.list-container {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.no-password-image {
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
